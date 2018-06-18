@@ -27,7 +27,7 @@ h3
 p 
 {	
 	text-align: justify;
-	color: black;
+	color: white;
 	font-size: 1em
 }
 
@@ -44,8 +44,12 @@ p
 	font-size: 0.8em
 }
 
-.imageflottante
-{
-	float: 
+body{
+	background-image: url(images/wallpaper_airsoft1.jpg);
+	background-repeat:repeat;
+	background-attachment: fixed;
+
 }
+
+
 
