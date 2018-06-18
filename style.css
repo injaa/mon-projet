@@ -36,13 +36,15 @@ h3
 {
 	font-family: "1942_report1942_report" ;
 	text-align: center;
+	font-weight: bold;
 }
 
 p 
 {	
-	text-align: center;
-	color: red;
+	text-align: left;
+	color: black;
 	font-size: 1em
+	
 }
 
 
@@ -60,12 +62,13 @@ p
 }
 
 body
-{
-	background-color: #EEE;
-	background-repeat:repeat;
-	background-attachment: fixed;
+{	
+	background: url("images/logo_airsoft.jpg") fixed no-repeat bottom right , url("images/wallpaper_airsoft1.jpg ") fixed
 
 }
 
-
+.imageflottante {
+	float: left;
+	
+}
 
